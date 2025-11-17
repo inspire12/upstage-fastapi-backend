@@ -30,7 +30,7 @@ body:
       required: false
 
   - type: input
-    id: part
+    id: lecture
     attributes:
       label: 강좌
       default: 개발환경
