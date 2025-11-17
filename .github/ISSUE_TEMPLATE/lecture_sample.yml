@@ -33,7 +33,7 @@ body:
     id: part
     attributes:
       label: 강좌
-      value: 개발환경
+      default: 개발환경
     validations:
       required: true
 
